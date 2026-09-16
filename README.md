@@ -1,5 +1,7 @@
-# afonsoapi
-Atividade para aula
+# Engenharia de Software
 
+Repositório criado durante uma atividade prática do curso de Análise e Desenvolvimento de Sistemas.
 
-Alteração da aula api
+## Objetivo
+
+Repositório utilizado para acompanhar e praticar os conteúdos apresentados durante a aula.
